@@ -13,3 +13,16 @@ likelihood ratio
 The factor that relates the two, P(E∣H)/p(E)is called the likelihood ratio. 
 
 Using these terms, Bayes' theorem can be rephrased as "the posterior probability equals the prior probability times the likelihood ratio."
+
+
+
+
+
+
+
+few important points 
+posterior = likelihood *  prior /norm_marginal 
+P(E---> is given so would come in denom always ) 
+
+
+
